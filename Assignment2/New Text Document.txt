@@ -1,0 +1,8 @@
+Step 1: Start
+step 2: Read the word that user inputted
+Step 3: calculate the length of the word
+Step 4: Initialize change as empty space 
+Step 5: Initialize i=length -1
+Step 6: repeat until i >= 0
+Step 7: print change
+tep 8: end
